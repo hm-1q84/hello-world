@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi guys!
+
+I'm just trying to train using GitGub!
